@@ -1,0 +1,102 @@
+<session>
+	<edit stamp="1412165147854" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166127115" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166163653" resource="test/com/industriallogic/builder/TagNodeTest.java"><error lineNumber="26" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="26" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1412166165177" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166167196" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166230241" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166242279" resource="test/com/industriallogic/builder/TagNodeTest.java"><error lineNumber="67" message="Te cannot be resolved to a type"/></edit>
+	<edit stamp="1412166244933" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166248972" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166262999" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166300527" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166305553" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166307081" resource="test/com/industriallogic/builder/TagNodeTest.java"><error lineNumber="63" message="Syntax error on token '@', Identifier expected after this token"/></edit>
+	<edit stamp="1412166308595" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166316619" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166324644" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166332178" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166348196" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166355715" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166360739" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166387765" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166424882" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166429411" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166445437" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166447958" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166456477" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166469003" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166477019" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166482038" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166488563" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166597322" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166599845" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166611384" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166637909" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166649429" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166659452" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166664973" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166669500" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166673017" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166679041" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166718664" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166719678" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166753705" resource="test/com/industriallogic/builder/TagNodeTest.java"><error lineNumber="24" message="Illegal modifier for parameter orders; only final is permitted"/><error lineNumber="59" message="orders cannot be resolved"/><error lineNumber="60" message="orders cannot be resolved"/><error lineNumber="65" message="orders cannot be resolved"/><error lineNumber="66" message="orders cannot be resolved"/><error lineNumber="67" message="orders cannot be resolved"/><error lineNumber="68" message="orders cannot be resolved"/><error lineNumber="73" message="orders cannot be resolved"/><error lineNumber="74" message="orders cannot be resolved"/><error lineNumber="75" message="orders cannot be resolved"/><error lineNumber="76" message="orders cannot be resolved"/><error lineNumber="82" message="orders cannot be resolved"/></edit>
+	<edit stamp="1412166756730" resource="test/com/industriallogic/builder/TagNodeTest.java"><error lineNumber="59" message="orders cannot be resolved"/><error lineNumber="60" message="orders cannot be resolved"/><error lineNumber="65" message="orders cannot be resolved"/><error lineNumber="66" message="orders cannot be resolved"/><error lineNumber="67" message="orders cannot be resolved"/><error lineNumber="68" message="orders cannot be resolved"/><error lineNumber="73" message="orders cannot be resolved"/><error lineNumber="74" message="orders cannot be resolved"/><error lineNumber="75" message="orders cannot be resolved"/><error lineNumber="76" message="orders cannot be resolved"/><error lineNumber="82" message="orders cannot be resolved"/></edit>
+	<save stamp="1412166756730" resource="test/com/industriallogic/builder/TagNodeTest.java"><error lineNumber="59" message="orders cannot be resolved" action="addition"/><error lineNumber="60" message="orders cannot be resolved" action="addition"/><error lineNumber="65" message="orders cannot be resolved" action="addition"/><error lineNumber="66" message="orders cannot be resolved" action="addition"/><error lineNumber="67" message="orders cannot be resolved" action="addition"/><error lineNumber="68" message="orders cannot be resolved" action="addition"/><error lineNumber="73" message="orders cannot be resolved" action="addition"/><error lineNumber="74" message="orders cannot be resolved" action="addition"/><error lineNumber="75" message="orders cannot be resolved" action="addition"/><error lineNumber="76" message="orders cannot be resolved" action="addition"/><error lineNumber="82" message="orders cannot be resolved" action="addition"/></save>
+	<edit stamp="1412166759744" resource="test/com/industriallogic/builder/TagNodeTest.java"><error lineNumber="59" message="orders cannot be resolved"/><error lineNumber="60" message="orders cannot be resolved"/><error lineNumber="65" message="orders cannot be resolved"/><error lineNumber="66" message="orders cannot be resolved"/><error lineNumber="67" message="orders cannot be resolved"/><error lineNumber="68" message="orders cannot be resolved"/><error lineNumber="73" message="orders cannot be resolved"/><error lineNumber="74" message="orders cannot be resolved"/><error lineNumber="75" message="orders cannot be resolved"/><error lineNumber="76" message="orders cannot be resolved"/><error lineNumber="82" message="orders cannot be resolved"/></edit>
+	<save stamp="1412166769628" resource="test/com/industriallogic/builder/TagNodeTest.java"><error lineNumber="59" message="orders cannot be resolved" action="removal"/><error lineNumber="60" message="orders cannot be resolved" action="removal"/><error lineNumber="65" message="orders cannot be resolved" action="removal"/><error lineNumber="66" message="orders cannot be resolved" action="removal"/><error lineNumber="67" message="orders cannot be resolved" action="removal"/><error lineNumber="68" message="orders cannot be resolved" action="removal"/><error lineNumber="73" message="orders cannot be resolved" action="removal"/><error lineNumber="74" message="orders cannot be resolved" action="removal"/><error lineNumber="75" message="orders cannot be resolved" action="removal"/><error lineNumber="76" message="orders cannot be resolved" action="removal"/><error lineNumber="82" message="orders cannot be resolved" action="removal"/></save>
+	<edit stamp="1412166771261" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166861306" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166981756" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166997280" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412166998301" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167000813" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167037842" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167039855" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167053382" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167054904" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167058924" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167060449" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167067471" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167075497" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167086021" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167090041" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167099567" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167100589" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167145123" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167188658" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167197682" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167199699" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167203728" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167278766" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167323801" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167328316" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167332332" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167335356" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167341874" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167345893" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167371466" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167377994" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167390525" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167393039" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167402557" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167427079" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167473612" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167476634" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167479154" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167482670" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167494198" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167499217" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167510243" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167513759" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167520278" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167522797" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167531317" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167533838" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167540859" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167551042" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167751121" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167755135" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+	<edit stamp="1412167795660" resource="test/com/industriallogic/builder/TagNodeTest.java"/>
+</session>

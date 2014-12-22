@@ -1,0 +1,390 @@
+<session>
+	<edit stamp="1411471860009" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495072864" resource="src/com/industriallogic/collections/List.java"/>
+	<edit stamp="1411495089874" resource="src/com/industriallogic/collections/AbstractCollection.java"/>
+	<edit stamp="1411495259393" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495266698" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495305254" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495308282" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495310315" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495316361" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="42" message="Syntax error on token '}', delete this token"/></edit>
+	<edit stamp="1411495317385" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495396450" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495400468" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495403999" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495410028" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411495455581" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497078472" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497082004" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="39" message="The method setValueAt(Object, int) in the type Map is not applicable for the arguments ()"/><error lineNumber="39" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1411497087536" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497090555" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497095574" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497124354" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497125375" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="41" message="Syntax error on token '}', delete this token"/></edit>
+	<edit stamp="1411497128421" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497132954" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497134981" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497139499" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497184035" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497188561" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497196598" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="73" message="setVAlue cannot be resolved to a type"/><error lineNumber="74" message="Syntax error on token '--', delete this token"/></edit>
+	<edit stamp="1411497198130" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="73" message="setVa cannot be resolved to a type"/><error lineNumber="74" message="Syntax error on token '--', delete this token"/></edit>
+	<edit stamp="1411497200659" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="73" message="value cannot be resolved to a variable"/></edit>
+	<edit stamp="1411497205190" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497208220" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497213242" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497293384" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497295401" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497406456" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497409481" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497424510" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497456546" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497464070" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497468593" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411497523636" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645073061" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645090606" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645092628" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645121178" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="107" message="The method getValueAt(int) in the type Map is not applicable for the arguments (Object)"/><error lineNumber="107" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<edit stamp="1411645122221" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="107" message="Syntax error on token ']', ) expected"/></edit>
+	<edit stamp="1411645124254" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645151790" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645157318" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="120" message="getValueAt cannot be resolved or is not a field"/></edit>
+	<edit stamp="1411645158340" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="120" message="The method getValueAt(int) in the type Map is not applicable for the arguments ()"/></edit>
+	<edit stamp="1411645160863" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="120" message="o cannot be resolved to a variable"/></edit>
+	<edit stamp="1411645163395" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645217586" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="21" message="Duplicate modifier for the field size"/></edit>
+	<edit stamp="1411645225114" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="19" message="Syntax error on token 'List', delete this token"/></edit>
+	<edit stamp="1411645227142" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645233670" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645243700" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645245725" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645251243" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645255264" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="19" message="Syntax error, insert ';' to complete FieldDeclaration"/></edit>
+	<edit stamp="1411645259804" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="19" message="Syntax error on tokens, delete these tokens"/></edit>
+	<edit stamp="1411645262326" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="19" message="Syntax error, insert ';' to complete FieldDeclaration"/></edit>
+	<edit stamp="1411645265346" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645268402" resource="src/com/industriallogic/collections/List.java"/>
+	<edit stamp="1411645274152" resource="src/com/industriallogic/collections/AbstractCollection.java"/>
+	<edit stamp="1411645444010" resource="src/com/industriallogic/collections/List.java"/>
+	<edit stamp="1411645447779" resource="src/com/industriallogic/collections/AbstractCollection.java"/>
+	<edit stamp="1411645525597" resource="src/com/industriallogic/collections/AbstractCollection.java"/>
+	<edit stamp="1411645679468" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="30" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="30" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="30" message="add cannot be resolved or is not a field"/></edit>
+	<edit stamp="1411645684990" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645698516" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645700038" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645703565" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645714089" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645722610" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645725624" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645734402" resource="src/com/industriallogic/collections/AbstractCollection.java"/>
+	<edit stamp="1411645758153" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645760674" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645763195" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645765212" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645767727" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645799904" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645801421" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645816949" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="70" message="This method must return a result of type int"/></edit>
+	<edit stamp="1411645817976" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="70" message="This method must return a result of type int"/></edit>
+	<edit stamp="1411645820514" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="72" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="72" message="This method must return a result of type int"/></edit>
+	<edit stamp="1411645824034" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="72" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="72" message="si cannot be resolved or is not a field"/></edit>
+	<edit stamp="1411645825064" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645827080" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645838606" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="83" message="values cannot be resolved to a type"/><error lineNumber="84" message="Syntax error on token '--', delete this token"/></edit>
+	<edit stamp="1411645842447" resource="src/com/industriallogic/collections/AbstractCollection.java"/>
+	<edit stamp="1411645855470" resource="src/com/industriallogic/collections/AbstractCollection.java"/>
+	<edit stamp="1411645857680" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645862204" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645865229" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645867758" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645886464" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645889482" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="90" message="This method must return a result of type boolean"/></edit>
+	<edit stamp="1411645896511" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="91" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411645897533" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="91" message="Syntax error on token(s), misplaced construct(s)"/><error lineNumber="91" message="Type mismatch: cannot convert from Object to boolean"/><error lineNumber="91" message="Syntax error on token ')', delete this token"/></edit>
+	<edit stamp="1411645901049" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="91" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411645902574" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645922107" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="112" message="This method must return a result of type Object"/></edit>
+	<edit stamp="1411645923129" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="112" message="This method must return a result of type Object"/></edit>
+	<edit stamp="1411645926152" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="116" message="Syntax error on token '.', ; expected"/></edit>
+	<edit stamp="1411645928177" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="116" message="Syntax error, insert ';' to complete ReturnStatement"/><error lineNumber="116" message="ge cannot be resolved or is not a field"/></edit>
+	<edit stamp="1411645930700" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="116" message="index cannot be resolved to a variable"/><error lineNumber="116" message="Syntax error, insert ';' to complete ReturnStatement"/></edit>
+	<edit stamp="1411645932727" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="116" message="index cannot be resolved to a variable"/></edit>
+	<edit stamp="1411645936244" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645937761" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645959494" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645963519" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645964535" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645965561" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411645968082" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646024333" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="129" message="The method add(Object, Object) in the type Map is not applicable for the arguments (Object, Map, int)"/><error lineNumber="129" message="Syntax error on token '.', , expected"/></edit>
+	<edit stamp="1411646026355" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="129" message="The method valu(int) is undefined for the type Map"/></edit>
+	<edit stamp="1411646031393" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646032909" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646050779" resource="test/com/industriallogic/collections/MapTest.java"/>
+	<edit stamp="1411646085944" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646087467" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646104992" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="65" message="newValues cannot be resolved to a variable"/><error lineNumber="67" message="newValues cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646106515" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="68" message="newValues cannot be resolved to a variable"/><error lineNumber="70" message="newValues cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646110032" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="67" message="Syntax error on token '.', ; expected"/><error lineNumber="67" message="The method arraycopy(Object[], int, Object[], int, int) is undefined for the type Map"/><error lineNumber="68" message="newValues cannot be resolved to a variable"/><error lineNumber="70" message="newValues cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646111563" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="67" message="Syntax error on token '.', ; expected"/><error lineNumber="67" message="The method arraycopy(Object[], int, Object[], int, int) is undefined for the type Map"/><error lineNumber="68" message="newValues cannot be resolved to a variable"/><error lineNumber="70" message="newValues cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646114079" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="64" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="64" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="64" message="List cannot be resolved to a variable"/><error lineNumber="67" message="System.arraycopy cannot be resolved to a type"/><error lineNumber="68" message="newValues cannot be resolved to a variable"/><error lineNumber="70" message="newValues cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646122104" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="70" message="Type mismatch: cannot convert from List to Object[]"/></edit>
+	<edit stamp="1411646130129" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="66" message="newValues cannot be resolved to a variable"/><error lineNumber="68" message="newValues cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646135153" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="65" message="newValues cannot be resolved to a variable"/><error lineNumber="67" message="newValues cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646137172" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="67" message="newValues cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646139693" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646141208" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646151405" resource="test/com/industriallogic/collections/MapTest.java"/>
+	<edit stamp="1411646185589" resource="src/com/industriallogic/collections/AbstractCollection.java"/>
+	<edit stamp="1411646228406" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="90" message="This method must return a result of type boolean"/></edit>
+	<edit stamp="1411646229932" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646241957" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646246477" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="98" message="The left-hand side of an assignment must be a variable"/><error lineNumber="98" message="Syntax error on token ')', AssignmentOperator expected after this token"/></edit>
+	<edit stamp="1411646249992" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="98" message="The method get(int) in the type AbstractCollection is not applicable for the arguments (boolean)"/><error lineNumber="98" message="Syntax error on token(s), misplaced construct(s)"/><error lineNumber="98" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<edit stamp="1411646251506" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="98" message="ii cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646252519" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646262547" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646265568" resource="src/com/industriallogic/collections/Map.java"/>
+	<save stamp="1411646277367" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="50" message="valuesDeprecated cannot be resolved to a variable" action="addition"/><error lineNumber="54" message="valuesDeprecated cannot be resolved to a variable" action="addition"/></save>
+	<edit stamp="1411646290599" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="50" message="valuesDeprecated cannot be resolved to a variable"/><error lineNumber="54" message="valuesDeprecated cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646300624" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="54" message="valuesDeprecated cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646302649" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="82" message="The method setValueAt(null, int) is undefined for the type Map"/></edit>
+	<save stamp="1411646302649" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="50" message="valuesDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="54" message="valuesDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="82" message="The method setValueAt(null, int) is undefined for the type Map" action="addition"/></save>
+	<edit stamp="1411646304168" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="82" message="The method setValueAt(null, int) is undefined for the type Map"/></edit>
+	<edit stamp="1411646314692" resource="src/com/industriallogic/collections/Map.java"/>
+	<save stamp="1411646314692" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="82" message="The method setValueAt(null, int) is undefined for the type Map" action="removal"/></save>
+	<edit stamp="1411646317205" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646324227" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646326240" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646328256" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646331770" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646335785" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646336805" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646340328" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646345346" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646382878" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="46" message="Syntax error on token 'pu', invalid Modifiers"/></edit>
+	<edit stamp="1411646383902" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646384923" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646387943" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646392956" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="25" message="Return type for the method is missing"/><error lineNumber="25" message="Syntax error, insert ')' to complete ConstructorDeclaration"/><error lineNumber="25" message="Syntax error, insert ';' to complete ConstructorDeclaration"/></edit>
+	<edit stamp="1411646399996" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="25" message="Return type for the method is missing"/><error lineNumber="26" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="26" message="k cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646401510" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="25" message="Return type for the method is missing"/><error lineNumber="26" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411646403033" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="25" message="Return type for the method is missing"/><error lineNumber="26" message="Syntax error on token '[', delete this token"/><error lineNumber="26" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411646405550" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="25" message="Return type for the method is missing"/></edit>
+	<edit stamp="1411646410073" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="25" message="Return type for the method is missing"/></edit>
+	<edit stamp="1411646412596" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646425289" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="32" message="Duplicate modifier for the method isEmpty in type Map"/></edit>
+	<edit stamp="1411646429802" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="29" message="Syntax error, insert ';' to complete MethodDeclaration"/></edit>
+	<edit stamp="1411646435324" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="29" message="Syntax error, insert ';' to complete MethodDeclaration"/></edit>
+	<edit stamp="1411646437844" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646442367" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="30" message="Syntax error on token '[', delete this token"/><error lineNumber="30" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="30" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411646443386" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="30" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="30" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411646446912" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646468441" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646562544" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646564070" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="getK cannot be resolved to a type"/><error lineNumber="52" message="Syntax error on token 'size', delete this token"/></edit>
+	<edit stamp="1411646566088" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="i cannot be resolved to a variable"/><error lineNumber="51" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1411646569613" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1411646572127" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646573144" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="set cannot be resolved to a type"/><error lineNumber="52" message="Syntax error on token 'size', delete this token"/></edit>
+	<edit stamp="1411646575675" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="i cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646580695" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="i cannot be resolved to a variable"/></edit>
+	<edit stamp="1411646583222" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646584745" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646588260" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646626073" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="75" message="Syntax error on token ']', ) expected"/></edit>
+	<edit stamp="1411646628594" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646638627" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="77" message="The method setKeyAt(Object, int) in the type Map is not applicable for the arguments (int)"/><error lineNumber="77" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1411646643653" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646649678" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646665704" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646685728" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646689749" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="98" message="Syntax error on token ']', ) expected"/></edit>
+	<edit stamp="1411646691265" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411646698783" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647107045" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="121" message="The method getKeyAt(int) in the type Map is not applicable for the arguments (Object, Object)"/><error lineNumber="121" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<edit stamp="1411647113061" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647154592" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647159104" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="18" message="Duplicate field Map.values"/><error lineNumber="19" message="Duplicate field Map.values"/></edit>
+	<edit stamp="1411647162631" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647166660" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647176682" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647182202" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="18" message="Duplicate field Map.values"/><error lineNumber="19" message="Duplicate field Map.values"/></edit>
+	<edit stamp="1411647184219" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647187745" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647213265" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="44" message="The method keys(int) is undefined for the type Map"/><error lineNumber="44" message="Syntax error on token 'getKeyAt', delete this token"/></edit>
+	<edit stamp="1411647216284" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="44" message="Syntax error on token 'getKeyAt', delete this token"/></edit>
+	<edit stamp="1411647222329" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647255558" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647261581" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="54" message="values cannot be resolved or is not a field"/></edit>
+	<edit stamp="1411647262603" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="53" message="keys cannot be resolved to a type"/><error lineNumber="54" message="Syntax error on token '.', ; expected"/><error lineNumber="54" message="The method add(Object, Object) in the type Map is not applicable for the arguments (Object)"/></edit>
+	<edit stamp="1411647266624" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647269144" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647273663" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647282679" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647287207" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="59" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="59" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411647289231" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="59" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="59" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="59" message="si cannot be resolved or is not a field"/></edit>
+	<edit stamp="1411647290755" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="59" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411647296271" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647300797" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647301819" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647307339" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647310856" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647313375" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647322391" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="60" message="Duplicate local variable length"/></edit>
+	<edit stamp="1411647323405" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647329933" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647454995" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647458515" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="80" message="Syntax error on token 'getKeyAt', delete this token"/></edit>
+	<edit stamp="1411647464034" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647470054" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="82" message="value cannot be resolved to a variable"/></edit>
+	<edit stamp="1411647473069" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647476596" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647480115" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647504142" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647517167" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647524194" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="82" message="keys cannot be resolved to a type"/><error lineNumber="83" message="Syntax error on token '.', ; expected"/><error lineNumber="83" message="The method removeElementAt(int) is undefined for the type Map"/></edit>
+	<edit stamp="1411647526217" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411647529243" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648536257" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648542282" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648557814" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="113" message="Unreachable code"/></edit>
+	<edit stamp="1411648561338" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648563854" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="112" message="The method keygetKeyAt(int) is undefined for the type Map"/></edit>
+	<edit stamp="1411648564869" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="112" message="The method key(int) is undefined for the type Map"/><error lineNumber="112" message="Syntax error on token 'getKeyAt', delete this token"/></edit>
+	<edit stamp="1411648572390" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648580911" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648601431" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="123" message="Type mismatch: cannot convert from List to int"/><error lineNumber="123" message="Syntax error on token '.', ; expected"/></edit>
+	<edit stamp="1411648605451" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="123" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411648606974" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648629500" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="133" message="key cannot be resolved or is not a field"/></edit>
+	<edit stamp="1411648631022" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="133" message="get cannot be resolved or is not a field"/></edit>
+	<edit stamp="1411648635544" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648647007" resource="test/com/industriallogic/collections/MapTest.java"/>
+	<edit stamp="1411648710592" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="53" message="element cannot be resolved to a variable"/></edit>
+	<edit stamp="1411648712614" resource="src/com/industriallogic/collections/Map.java"/>
+	<save stamp="1411648725483" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="27" message="keysDeprecated cannot be resolved to a variable" action="addition"/><error lineNumber="31" message="keysDeprecated cannot be resolved to a variable" action="addition"/><error lineNumber="66" message="keysDeprecated cannot be resolved to a variable" action="addition"/><error lineNumber="67" message="keysDeprecated cannot be resolved to a variable" action="addition"/><error lineNumber="68" message="keysDeprecated cannot be resolved to a variable" action="addition"/></save>
+	<edit stamp="1411648733641" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="27" message="keysDeprecated cannot be resolved to a variable"/><error lineNumber="31" message="keysDeprecated cannot be resolved to a variable"/><error lineNumber="66" message="keysDeprecated cannot be resolved to a variable"/><error lineNumber="67" message="keysDeprecated cannot be resolved to a variable"/><error lineNumber="68" message="keysDeprecated cannot be resolved to a variable"/></edit>
+	<save stamp="1411648738100" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="68" message="keysDeprecated cannot be resolved to a variable" action="addition"/><error lineNumber="27" message="keysDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="31" message="keysDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="66" message="keysDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="67" message="keysDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="68" message="keysDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="66" message="keysDeprecated cannot be resolved to a variable" action="addition"/><error lineNumber="67" message="keysDeprecated cannot be resolved to a variable" action="addition"/></save>
+	<edit stamp="1411648739166" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="66" message="keysDeprecated cannot be resolved to a variable"/><error lineNumber="67" message="keysDeprecated cannot be resolved to a variable"/><error lineNumber="68" message="keysDeprecated cannot be resolved to a variable"/></edit>
+	<edit stamp="1411648746690" resource="src/com/industriallogic/collections/Map.java"/>
+	<save stamp="1411648746690" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="68" message="keysDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="66" message="keysDeprecated cannot be resolved to a variable" action="removal"/><error lineNumber="67" message="keysDeprecated cannot be resolved to a variable" action="removal"/></save>
+	<edit stamp="1411648748707" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648760724" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648768747" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648783770" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648786285" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648806306" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648808323" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648810837" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648827360" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648834878" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648839893" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648891926" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648897947" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648916966" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648920980" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648926003" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648948097" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411648951612" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="size cannot be resolved to a variable"/></edit>
+	<save stamp="1411648951612" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="size cannot be resolved to a variable" action="addition"/></save>
+	<edit stamp="1411648952632" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="size cannot be resolved to a variable"/></edit>
+	<edit stamp="1411648955153" resource="src/com/industriallogic/collections/Map.java"/>
+	<save stamp="1411648955153" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="size cannot be resolved to a variable" action="removal"/></save>
+	<edit stamp="1411648957671" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652656757" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652658280" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="100" message="Syntax error, insert 'enum Identifier' to complete EnumHeader"/><error lineNumber="100" message="Syntax error, insert 'EnumBody' to complete EnumDeclaration"/></edit>
+	<edit stamp="1411652662300" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="100" message="Syntax error, insert 'enum Identifier' to complete EnumHeaderName"/><error lineNumber="100" message="Syntax error, insert 'EnumBody' to complete EnumDeclaration"/><error lineNumber="100" message="Syntax error, insert '}' to complete ClassBody"/></edit>
+	<edit stamp="1411652664821" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="98" message="Syntax error, insert '}' to complete ClassBody"/><error lineNumber="100" message="Return type for the method is missing"/><error lineNumber="100" message="Syntax error on token ')', { expected after this token"/></edit>
+	<edit stamp="1411652669347" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="98" message="Syntax error, insert '}' to complete ClassBody"/><error lineNumber="100" message="Return type for the method is missing"/><error lineNumber="100" message="Syntax error on token ')', { expected after this token"/></edit>
+	<edit stamp="1411652671373" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="100" message="Return type for the method is missing"/></edit>
+	<edit stamp="1411652672892" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="100" message="Return type for the method is missing"/><error lineNumber="101" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="101" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="101" message="re cannot be resolved to a variable"/></edit>
+	<edit stamp="1411652674914" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="101" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="101" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="101" message="re cannot be resolved to a variable"/></edit>
+	<edit stamp="1411652677430" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652678945" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652704673" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652707698" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="29" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="29" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="29" message="get cannot be resolved to a variable"/></edit>
+	<edit stamp="1411652710212" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="29" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="29" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="29" message="getKey cannot be resolved to a variable"/></edit>
+	<edit stamp="1411652711725" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="29" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1411652713243" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="29" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1411652718258" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652733781" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652742809" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652755824" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="31" message="i cannot be resolved to a variable"/></edit>
+	<edit stamp="1411652756845" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="31" message="i cannot be resolved to a variable"/></edit>
+	<edit stamp="1411652761873" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652768895" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652816586" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652829607" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652832624" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652842145" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652846176" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652851697" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652853713" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="114" message="Syntax error, insert '}' to complete ClassBody"/></edit>
+	<edit stamp="1411652857726" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="114" message="Syntax error, insert '}' to complete ClassBody"/></edit>
+	<edit stamp="1411652862245" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="114" message="Syntax error, insert '}' to complete ClassBody"/></edit>
+	<edit stamp="1411652867765" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="108" message="This method must return a result of type int"/></edit>
+	<edit stamp="1411652871785" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652872805" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652888082" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652897102" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652905123" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652907140" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="Syntax error, insert '}' to complete Statement"/></edit>
+	<edit stamp="1411652908661" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652915179" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="50" message="i cannot be resolved to a variable"/><error lineNumber="51" message="i cannot be resolved to a variable"/></edit>
+	<edit stamp="1411652924696" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="51" message="i cannot be resolved to a variable"/></edit>
+	<edit stamp="1411652926720" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652931242" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652939263" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652941782" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652970809" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652973822" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411652977841" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="58" message="This method must return a result of type boolean"/></edit>
+	<edit stamp="1411652978862" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="58" message="This method must return a result of type boolean"/><error lineNumber="58" message="key cannot be resolved to a variable"/><error lineNumber="65" message="Syntax error, insert '}' to complete Statement"/></edit>
+	<edit stamp="1411652983384" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="59" message="key cannot be resolved to a variable"/><error lineNumber="60" message="index cannot be resolved to a variable"/><error lineNumber="66" message="Syntax error, insert '}' to complete Statement"/></edit>
+	<edit stamp="1411652984900" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="key cannot be resolved to a variable"/><error lineNumber="59" message="index cannot be resolved to a variable"/><error lineNumber="65" message="Syntax error, insert '}' to complete Statement"/></edit>
+	<edit stamp="1411652985913" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="key cannot be resolved to a variable"/><error lineNumber="59" message="index cannot be resolved to a variable"/><error lineNumber="65" message="Syntax error, insert '}' to complete Statement"/></edit>
+	<edit stamp="1411652988931" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="Syntax error on token '>', Expression expected after this token"/><error lineNumber="65" message="Syntax error, insert '}' to complete Statement"/></edit>
+	<edit stamp="1411652991953" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="key cannot be resolved to a variable"/><error lineNumber="59" message="index cannot be resolved to a variable"/><error lineNumber="65" message="Syntax error, insert '}' to complete Statement"/></edit>
+	<edit stamp="1411652998974" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="key cannot be resolved to a variable"/></edit>
+	<edit stamp="1411653000990" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="key cannot be resolved to a variable"/></edit>
+	<save stamp="1411653000990" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="key cannot be resolved to a variable" action="addition"/></save>
+	<edit stamp="1411653002007" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="key cannot be resolved to a variable"/></edit>
+	<edit stamp="1411653009022" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="57" message="This method must return a result of type boolean"/></edit>
+	<save stamp="1411653016752" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="58" message="key cannot be resolved to a variable" action="removal"/></save>
+	<edit stamp="1411653018041" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653028057" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653051576" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653053597" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653056118" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="103" message="Syntax error on token '(', Expression expected after this token"/></edit>
+	<edit stamp="1411653063647" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653081674" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653097696" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653098712" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653101235" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="69" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="69" message="This method must return a result of type boolean"/></edit>
+	<edit stamp="1411653104251" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="69" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="69" message="get cannot be resolved to a variable"/></edit>
+	<edit stamp="1411653105270" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="69" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="69" message="getKe cannot be resolved to a variable"/></edit>
+	<edit stamp="1411653106791" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="69" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="69" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411653110811" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="71" message="Unreachable code"/></edit>
+	<edit stamp="1411653115829" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653125350" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653168587" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653171598" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="77" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="77" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="77" message="get cannot be resolved to a variable"/></edit>
+	<edit stamp="1411653174113" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="77" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1411653175133" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653183149" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653184671" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653188691" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653191715" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="78" message="Type mismatch: cannot convert from int to boolean"/></edit>
+	<edit stamp="1411653193239" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653198759" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653201280" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="79" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="79" message="This method must return a result of type Object"/></edit>
+	<edit stamp="1411653206802" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653212321" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653218342" resource="src/com/industriallogic/collections/Map.java"><error lineNumber="82" message="Unreachable code"/></edit>
+	<edit stamp="1411653220360" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653231020" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653238538" resource="src/com/industriallogic/collections/Map.java"/>
+	<edit stamp="1411653274562" resource="src/com/industriallogic/collections/Map.java"/>
+</session>

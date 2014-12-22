@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.industriallogic.soundCheck.SoundCheck.doit()&apos; to &apos;testing123&apos;&#x0A;- Original project: &apos;SoundCheck-Problem-Java&apos;&#x0A;- Original element: &apos;com.industriallogic.soundCheck.SoundCheck.doit()&apos;&#x0A;- Renamed element: &apos;com.industriallogic.soundCheck.SoundCheck.testing123()&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;doit&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.industriallogic.soundCheck{SoundCheck.java[SoundCheck~doit" name="testing123" references="true" stamp="1412164485552" version="1.0"/>
+</session>

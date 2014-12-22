@@ -1,0 +1,5 @@
+<session>
+	<change action='removal' type='Method' class='SoundCheck' method='doit' args='' visibility='public' resource='src/com/industriallogic/soundCheck/SoundCheck.java' stamp='1412164483834'/>
+	<change action='addition' type='Method' class='SoundCheck' method='doit' args='' visibility='public' resource='src/com/industriallogic/soundCheck/SoundCheck.java' stamp='1412164485156'/>
+	<change action='removal' type='Method' class='SoundCheck' method='testing' args='' visibility='N/A' resource='src/com/industriallogic/soundCheck/SoundCheck.java' stamp='1412164485156'/>
+</session>

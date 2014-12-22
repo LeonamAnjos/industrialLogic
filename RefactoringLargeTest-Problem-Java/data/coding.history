@@ -1,0 +1,18 @@
+<session>
+	<change action='addition' type='Method' class='TagNodeTest' method='testTagNodeCreate' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412166229275'/>
+	<problem type='Missing Class' class='Te' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412166242279'/>
+	<change action='addition' type='Method' class='TagNodeTest' method='testAddAttribute' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412166299522'/>
+	<change action='addition' type='Method' class='TagNodeTest' method='testGetAttribute' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412166444768'/>
+	<change action='addition' type='Method' class='TagNodeTest' method='testAddNode' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412166596088'/>
+	<problem type='Unresolved Token' token='orders' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412166753705'/>
+	<change action='addition' type='Method' class='TagNodeTest' method='testGetValue' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167144528'/>
+	<change action='addition' type='Method' class='TagNodeTest' method='test' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167473612'/>
+	<change action='removal' type='Method' class='TagNodeTest' method='testNode' args='' visibility='N/A' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167473612'/>
+	<change action='addition' type='Method' class='TagNodeTest' method='testChilde' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167476634'/>
+	<change action='removal' type='Method' class='TagNodeTest' method='test' args='' visibility='N/A' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167476634'/>
+	<change action='removal' type='Method' class='TagNodeTest' method='testChilde' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167478409'/>
+	<change action='addition' type='Method' class='TagNodeTest' method='testChildren' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167478409'/>
+	<change action='removal' type='Method' class='TagNodeTest' method='testChildren' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167481853'/>
+	<change action='addition' type='Method' class='TagNodeTest' method='testChildren' args='' visibility='public' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167482023'/>
+	<change action='removal' type='Method' class='TagNodeTest' method='testNode' args='' visibility='N/A' resource='test/com/industriallogic/builder/TagNodeTest.java' stamp='1412167482023'/>
+</session>

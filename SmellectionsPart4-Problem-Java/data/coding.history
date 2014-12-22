@@ -1,0 +1,67 @@
+<session>
+	<change action='addition' type='Method' class='Map' method='grow' args='' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495258463'/>
+	<change action='addition' type='Method' class='Map' method='extracted' args='' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495304426'/>
+	<change action='removal' type='Method' class='Map' method='extracted' args='' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495307521'/>
+	<change action='addition' type='Method' class='Map' method='shouldG' args='' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495307521'/>
+	<change action='addition' type='Method' class='Map' method='shouldGrow' args='' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495310315'/>
+	<change action='removal' type='Method' class='Map' method='shouldG' args='' visibility='N/A' resource='src/com/industriallogic/collections/Map.java' stamp='1411495310315'/>
+	<change action='addition' type='Method' class='Map' method='extracted' args='Object' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495395729'/>
+	<change action='removal' type='Method' class='Map' method='extracted' args='Object' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495398131'/>
+	<change action='removal' type='Method' class='Map' method='set' args='Object' visibility='N/A' resource='src/com/industriallogic/collections/Map.java' stamp='1411495399890'/>
+	<change action='addition' type='Method' class='Map' method='setValue' args='Object' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495399890'/>
+	<change action='removal' type='Method' class='Map' method='setValue' args='Object' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495403476'/>
+	<change action='addition' type='Method' class='Map' method='setValueAt' args='Object' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495403476'/>
+	<change action='removal' type='Method' class='Map' method='setValueAt' args='Object' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495409401'/>
+	<change action='removal' type='Method' class='Map' method='extracted' args='Object' visibility='N/A' resource='src/com/industriallogic/collections/Map.java' stamp='1411495410028'/>
+	<change action='addition' type='Method' class='Map' method='setValueAt' args='Object, int' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411495454472'/>
+	<problem type='Method Not Applicable' class='Map' method='setValueAt' args='' resource='src/com/industriallogic/collections/Map.java' stamp='1411497082004'/>
+	<problem type='Missing Class' class='setVAlue' resource='src/com/industriallogic/collections/Map.java' stamp='1411497196598'/>
+	<problem type='Missing Class' class='setVa' resource='src/com/industriallogic/collections/Map.java' stamp='1411497198130'/>
+	<change action='addition' type='Method' class='Map' method='isValueEqualAt' args='Object, int' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411497522920'/>
+	<change action='addition' type='Method' class='Map' method='getValueAt' args='int' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411645072254'/>
+	<problem type='Method Not Applicable' class='Map' method='getValueAt' args='Object' resource='src/com/industriallogic/collections/Map.java' stamp='1411645121178'/>
+	<problem type='Method Not Applicable' class='Map' method='getValueAt' args='' resource='src/com/industriallogic/collections/Map.java' stamp='1411645158340'/>
+	<problem type='Missing Class' class='values' resource='src/com/industriallogic/collections/Map.java' stamp='1411645838606'/>
+	<problem type='Method Not Applicable' class='Map' method='add' args='Object, Map, int' resource='src/com/industriallogic/collections/Map.java' stamp='1411646024333'/>
+	<problem type='Missing Method' class='Map' method='valu' args='int' resource='src/com/industriallogic/collections/Map.java' stamp='1411646026355'/>
+	<problem type='Missing Method' class='Map' method='arraycopy' args='Object[], int, Object[], int, int' resource='src/com/industriallogic/collections/Map.java' stamp='1411646110032'/>
+	<problem type='Missing Class' class='System.arraycopy' resource='src/com/industriallogic/collections/Map.java' stamp='1411646114079'/>
+	<problem type='Method Not Applicable' class='AbstractCollection' method='get' args='boolean' resource='src/com/industriallogic/collections/Map.java' stamp='1411646249992'/>
+	<change action='removal' type='Method' class='Map' method='getValueAt' args='int' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646299918'/>
+	<change action='removal' type='Method' class='Map' method='setValueAt' args='Object, int' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411646301895'/>
+	<problem type='Missing Method' class='Map' method='setValueAt' args='null, int' resource='src/com/industriallogic/collections/Map.java' stamp='1411646302649'/>
+	<change action='addition' type='Method' class='Map' method='getKeyAt' args='' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646392956'/>
+	<change action='addition' type='Method' class='Map' method='getKeyAt' args='' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646392958'/>
+	<change action='removal' type='Method' class='Map' method='getKeyAt' args='' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646394288'/>
+	<change action='addition' type='Method' class='Map' method='getKeyAt' args='int' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646394288'/>
+	<change action='addition' type='Method' class='Map' method='obgetKeyAt' args='int' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646410073'/>
+	<change action='removal' type='Method' class='Map' method='getKeyAt' args='int' visibility='N/A' resource='src/com/industriallogic/collections/Map.java' stamp='1411646410073'/>
+	<change action='removal' type='Method' class='Map' method='obgetKeyAt' args='int' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646410127'/>
+	<change action='removal' type='Method' class='Map' method='ogetKeyAt' args='int' visibility='N/A' resource='src/com/industriallogic/collections/Map.java' stamp='1411646411940'/>
+	<change action='addition' type='Method' class='Map' method='getKeyAt' args='int' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646411940'/>
+	<change action='addition' type='Method' class='Map' method='setKeyAt' args='' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646429228'/>
+	<change action='removal' type='Method' class='Map' method='setKeyAt' args='' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646433051'/>
+	<change action='removal' type='Method' class='Map' method='setKeyAt' args='Object' visibility='N/A' resource='src/com/industriallogic/collections/Map.java' stamp='1411646434518'/>
+	<change action='addition' type='Method' class='Map' method='setKeyAt' args='Object, int' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411646434518'/>
+	<problem type='Missing Class' class='getK' resource='src/com/industriallogic/collections/Map.java' stamp='1411646564070'/>
+	<problem type='Missing Class' class='set' resource='src/com/industriallogic/collections/Map.java' stamp='1411646573144'/>
+	<problem type='Method Not Applicable' class='Map' method='setKeyAt' args='int' resource='src/com/industriallogic/collections/Map.java' stamp='1411646638627'/>
+	<problem type='Method Not Applicable' class='Map' method='getKeyAt' args='Object, Object' resource='src/com/industriallogic/collections/Map.java' stamp='1411647107045'/>
+	<problem type='Missing Method' class='Map' method='keys' args='int' resource='src/com/industriallogic/collections/Map.java' stamp='1411647213265'/>
+	<problem type='Missing Class' class='keys' resource='src/com/industriallogic/collections/Map.java' stamp='1411647262603'/>
+	<problem type='Method Not Applicable' class='Map' method='add' args='Object' resource='src/com/industriallogic/collections/Map.java' stamp='1411647262603'/>
+	<problem type='Missing Method' class='Map' method='removeElementAt' args='int' resource='src/com/industriallogic/collections/Map.java' stamp='1411647524194'/>
+	<change action='addition' type='Method' class='Map' method='extracted' args='Object, int' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411648535285'/>
+	<change action='removal' type='Method' class='Map' method='extracted' args='Object, int' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411648539663'/>
+	<change action='removal' type='Method' class='Map' method='isKey' args='Object, int' visibility='N/A' resource='src/com/industriallogic/collections/Map.java' stamp='1411648541439'/>
+	<change action='addition' type='Method' class='Map' method='isKeyEqualAt' args='Object, int' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411648541439'/>
+	<problem type='Missing Method' class='Map' method='keygetKeyAt' args='int' resource='src/com/industriallogic/collections/Map.java' stamp='1411648563854'/>
+	<problem type='Missing Method' class='Map' method='key' args='int' resource='src/com/industriallogic/collections/Map.java' stamp='1411648564869'/>
+	<change action='removal' type='Method' class='Map' method='getKeyAt' args='int' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411648738100'/>
+	<change action='removal' type='Method' class='Map' method='setKeyAt' args='Object, int' visibility='public' resource='src/com/industriallogic/collections/Map.java' stamp='1411648738100'/>
+	<change action='removal' type='Method' class='Map' method='grow' args='' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411648838243'/>
+	<change action='removal' type='Method' class='Map' method='shouldGrow' args='' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411648838243'/>
+	<change action='addition' type='Method' class='Map' method='getKeyPosition' args='' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411652664821'/>
+	<change action='addition' type='Method' class='Map' method='getKeyPosition' args='Object' visibility='private' resource='src/com/industriallogic/collections/Map.java' stamp='1411652669347'/>
+	<change action='removal' type='Method' class='Map' method='getKeyPosition' args='' visibility='N/A' resource='src/com/industriallogic/collections/Map.java' stamp='1411652669347'/>
+</session>

@@ -1,0 +1,433 @@
+<session>
+	<edit stamp="1412697692424" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412697726949" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412697841004" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert 'enum Identifier' to complete EnumHeaderName"/><error lineNumber="19" message="Syntax error, insert 'EnumBody' to complete EnumDeclaration"/><error lineNumber="19" message="Syntax error, insert '}' to complete ClassBody"/></edit>
+	<edit stamp="1412697842527" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable test"/></edit>
+	<edit stamp="1412697846044" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable test"/></edit>
+	<edit stamp="1412697847555" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonus"/></edit>
+	<edit stamp="1412697851571" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusWhen"/></edit>
+	<edit stamp="1412697854588" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusW"/></edit>
+	<edit stamp="1412697856101" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable test"/></edit>
+	<edit stamp="1412697860129" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBo"/></edit>
+	<edit stamp="1412697862140" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusWhen"/></edit>
+	<edit stamp="1412697863656" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusWhenSalves"/></edit>
+	<edit stamp="1412697865170" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusWhenSales"/></edit>
+	<edit stamp="1412697867186" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusWhenSalesAre"/></edit>
+	<edit stamp="1412697869197" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusWhenSalesAreSmaller"/></edit>
+	<edit stamp="1412697871706" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusWhenSalesAreSmallerThan"/></edit>
+	<edit stamp="1412697878221" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="19" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="19" message="void is an invalid type for the variable testBonusWhenSalesAreSmallerThanQuota"/></edit>
+	<edit stamp="1412697880737" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412697884268" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412697885792" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="21" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="21" message="Assert cannot be resolved to a variable"/></edit>
+	<edit stamp="1412697886810" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="21" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="21" message="Assert cannot be resolved to a variable"/></edit>
+	<edit stamp="1412697890330" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="actual cannot be resolved to a variable"/></edit>
+	<edit stamp="1412697895346" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="BonusCalculator cannot be resolved to a variable"/></edit>
+	<edit stamp="1412697902871" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved to a type"/><error lineNumber="23" message="Syntax error on token '.', class expected after this token"/></edit>
+	<edit stamp="1412697940960" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/></edit>
+	<edit stamp="1412697955482" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/></edit>
+	<edit stamp="1412697957499" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/></edit>
+	<edit stamp="1412697959008" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/><error lineNumber="23" message="Syntax error on token ',', Expression expected after this token"/></edit>
+	<edit stamp="1412697965018" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/><error lineNumber="23" message="Syntax error on token ',', Expression expected after this token"/></edit>
+	<edit stamp="1412697966537" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/><error lineNumber="23" message="Syntax error on token ',', Expression expected after this token"/></edit>
+	<edit stamp="1412697967558" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/><error lineNumber="23" message="Syntax error on token ',', Expression expected after this token"/></edit>
+	<edit stamp="1412697973076" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/><error lineNumber="23" message="Syntax error on token ',', Expression expected after this token"/></edit>
+	<edit stamp="1412697980590" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/></edit>
+	<edit stamp="1412697981607" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/><error lineNumber="23" message="Syntax error on token ',', Expression expected after this token"/></edit>
+	<edit stamp="1412697983121" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/></edit>
+	<save stamp="1412697983121" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved" action="addition"/></save>
+	<edit stamp="1412697990920" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/></edit>
+	<edit stamp="1412697996434" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved"/></edit>
+	<edit stamp="1412698002954" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="The method individualBonus(int, int, int, int) is undefined for the type Object"/></edit>
+	<save stamp="1412698002954" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="bonusCalculator cannot be resolved" action="removal"/><error lineNumber="23" message="BonusCalculator cannot be resolved to a type" action="addition"/></save>
+	<edit stamp="1412698011974" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="BonusCalculator cannot be resolved to a type"/></edit>
+	<save stamp="1412698032049" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="BonusCalculator cannot be resolved to a type" action="removal"/><error lineNumber="24" message="The method individualBonus(int, int, int, int) is undefined for the type BonusCalculator" action="addition"/></save>
+	<edit stamp="1412698032894" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698043903" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698046915" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698048924" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698054937" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698057949" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698061960" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698065470" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698070981" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698074994" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698076510" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698080538" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<save stamp="1412698080538" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="The method individualBonus(int, int, int, int) is undefined for the type BonusCalculator" action="removal"/><error lineNumber="24" message="The local variable bonusCalculator may not have been initialized" action="addition"/></save>
+	<edit stamp="1412698082044" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698083542" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="The local variable bonusCalculator may not have been initialized"/></edit>
+	<edit stamp="1412698100564" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="23" message="Syntax error on token 'new', invalid VariableInitializer"/></edit>
+	<edit stamp="1412698104578" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<save stamp="1412698104578" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="The local variable bonusCalculator may not have been initialized" action="removal"/></save>
+	<edit stamp="1412698106096" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<save stamp="1412698106096" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="21" message="Test cannot be resolved to a type" action="addition"/></save>
+	<edit stamp="1412698126614" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="21" message="Test cannot be resolved to a type"/></edit>
+	<edit stamp="1412698128634" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<save stamp="1412698128634" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="21" message="Test cannot be resolved to a type" action="removal"/></save>
+	<edit stamp="1412698130655" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698163182" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698172200" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="28" message="Duplicate local variable bonusCalculator"/></edit>
+	<edit stamp="1412698173718" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="29" message="Duplicate local variable bonusCalculator"/></edit>
+	<edit stamp="1412698178731" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698184745" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698203089" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698224773" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698235792" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698247306" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/><error lineNumber="29" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698248319" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/><error lineNumber="30" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698262841" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698270858" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698299881" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698316912" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator"/></edit>
+	<edit stamp="1412698318923" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator"/><error lineNumber="32" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator"/></edit>
+	<save stamp="1412698318923" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator" action="addition"/><error lineNumber="32" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator" action="addition"/></save>
+	<edit stamp="1412698320440" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator"/><error lineNumber="32" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator"/></edit>
+	<edit stamp="1412698341464" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator"/><error lineNumber="32" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator"/></edit>
+	<edit stamp="1412698342476" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, double, int) is undefined for the type BonusCalculator"/><error lineNumber="32" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator"/></edit>
+	<save stamp="1412698342476" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator" action="removal"/><error lineNumber="32" message="The method teamBonus(int, int, int, int) is undefined for the type BonusCalculator" action="removal"/><error lineNumber="31" message="The method teamBonus(int, int, double, int) is undefined for the type BonusCalculator" action="addition"/><error lineNumber="32" message="The method teamBonus(int, int, double, int) is undefined for the type BonusCalculator" action="addition"/></save>
+	<edit stamp="1412698345498" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, double, int) is undefined for the type BonusCalculator"/><error lineNumber="32" message="The method teamBonus(int, int, double, int) is undefined for the type BonusCalculator"/></edit>
+	<edit stamp="1412698351849" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698354363" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698358375" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698361387" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698366902" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698370416" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698373929" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double"/></edit>
+	<save stamp="1412698373929" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="31" message="The method teamBonus(int, int, double, int) is undefined for the type BonusCalculator" action="removal"/><error lineNumber="32" message="The method teamBonus(int, int, double, int) is undefined for the type BonusCalculator" action="removal"/></save>
+	<save stamp="1412698373929" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double" action="addition"/></save>
+	<edit stamp="1412698384442" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double"/></edit>
+	<edit stamp="1412698387953" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<save stamp="1412698387953" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="11" message="Type mismatch: cannot convert from null to double" action="removal"/></save>
+	<edit stamp="1412698389968" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698391477" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698417495" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698418502" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698422508" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698424014" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698425023" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698426034" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698431047" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698432557" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698436065" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698437069" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698465313" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698466321" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698469826" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698482911" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/><error lineNumber="29" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698488925" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/><error lineNumber="35" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698490441" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="24" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/><error lineNumber="36" message="Duplicate method testIndividualBonusWhenSalesAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698499467" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698501487" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698505011" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698508030" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698512047" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698516571" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698519091" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698522108" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698523620" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698525148" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698527669" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698529195" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698530211" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698532239" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698534249" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698536269" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698550794" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698553804" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698556319" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698558339" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698610875" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698611896" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698627913" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698630427" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698636439" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698638455" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698650522" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698669541" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="30" message="Duplicate method testTeamBonusWhenSalesGroupAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/><error lineNumber="35" message="Duplicate method testTeamBonusWhenSalesGroupAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698672063" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="30" message="Duplicate method testTeamBonusWhenSalesGroupAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/><error lineNumber="40" message="Duplicate method testTeamBonusWhenSalesGroupAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698673587" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="30" message="Duplicate method testTeamBonusWhenSalesGroupAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/><error lineNumber="41" message="Duplicate method testTeamBonusWhenSalesGroupAreEqualOrSmallerThanQuota() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698684606" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698693122" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698694141" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698697660" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698717185" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="36" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest"/><error lineNumber="40" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698720205" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="36" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest"/><error lineNumber="44" message="Syntax error on token '}', delete this token"/><error lineNumber="46" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest"/><error lineNumber="48" message="Syntax error, insert '}' to complete ClassBody"/></edit>
+	<edit stamp="1412698721229" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="36" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest"/><error lineNumber="45" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest"/></edit>
+	<save stamp="1412698721229" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="36" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest" action="addition"/><error lineNumber="46" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest" action="addition"/></save>
+	<edit stamp="1412698723243" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="36" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest"/><error lineNumber="46" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698740262" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698743285" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698752811" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<save stamp="1412698752811" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="36" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest" action="removal"/><error lineNumber="46" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndCommissionIsZero() in type BonusCalculatorTest" action="removal"/></save>
+	<edit stamp="1412698754825" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698759841" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698766087" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698772600" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698776112" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="6" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="6" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="6" message="sal cannot be resolved to a variable"/></edit>
+	<edit stamp="1412698777623" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="6" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="6" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1412698780632" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="6" message="Syntax error on token '-', invalid AssignmentOperator"/></edit>
+	<edit stamp="1412698790641" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698793648" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698797658" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698799171" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698800180" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="This method must return a result of type double"/></edit>
+	<edit stamp="1412698803693" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698807201" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Syntax error on token '*', Expression expected after this token"/></edit>
+	<edit stamp="1412698809207" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="commition cannot be resolved to a variable"/></edit>
+	<edit stamp="1412698810714" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="The method commition() is undefined for the type BonusCalculator"/></edit>
+	<edit stamp="1412698812228" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="commition cannot be resolved to a variable"/></edit>
+	<edit stamp="1412698813742" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="commition cannot be resolved to a variable"/><error lineNumber="7" message="Syntax error on token ')', delete this token"/></edit>
+	<edit stamp="1412698815756" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Syntax error on token ')', delete this token"/></edit>
+	<edit stamp="1412698817770" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698820777" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698823782" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698830295" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698834804" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698871932" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698874946" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Syntax error on token '(', Expression expected after this token"/></edit>
+	<edit stamp="1412698876958" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from int to boolean"/></edit>
+	<edit stamp="1412698880472" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="5" message="This method must return a result of type double"/></edit>
+	<edit stamp="1412698883489" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="7" message="Syntax error on token '0', delete this token"/></edit>
+	<edit stamp="1412698884999" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="7" message="Syntax error on token '0', delete this token"/></edit>
+	<edit stamp="1412698886009" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="5" message="This method must return a result of type double"/></edit>
+	<edit stamp="1412698888517" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="5" message="This method must return a result of type double"/></edit>
+	<edit stamp="1412698890028" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="5" message="This method must return a result of type double"/></edit>
+	<edit stamp="1412698895040" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698911557" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698913069" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698914577" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698915591" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698920601" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412698951455" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698956971" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698960991" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698962007" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698968519" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698978535" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412698986049" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="46" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndTaxIsZero() in type BonusCalculatorTest"/><error lineNumber="51" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndTaxIsZero() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698987574" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="46" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndTaxIsZero() in type BonusCalculatorTest"/><error lineNumber="52" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndTaxIsZero() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412698992095" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699003121" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699006634" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699037660" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699045686" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699048708" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699050233" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699051757" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699060782" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699062297" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699092847" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699094360" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699099890" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699100911" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="34" message="Duplicate annotation @Test"/><error lineNumber="35" message="Duplicate annotation @Test"/></edit>
+	<edit stamp="1412699102928" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699104444" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699105962" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699107474" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699124494" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="35" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndTaxIsZero() in type BonusCalculatorTest"/><error lineNumber="40" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndTaxIsZero() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412699126009" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="35" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndTaxIsZero() in type BonusCalculatorTest"/><error lineNumber="41" message="Duplicate method testIndividualBonusWhenSalesAreBiggerThanQuotaAndTaxIsZero() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412699136029" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699137044" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699141055" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699145575" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699147092" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699149113" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699157635" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699166155" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699174676" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699176200" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699188159" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699202172" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="Syntax error on token ')', delete this token"/></edit>
+	<edit stamp="1412699204680" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699206188" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="Syntax error on token '*', Expression expected after this token"/></edit>
+	<edit stamp="1412699207197" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="Syntax error on token '(', Expression expected after this token"/></edit>
+	<edit stamp="1412699208703" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="t cannot be resolved to a variable"/></edit>
+	<edit stamp="1412699210214" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699214225" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="Syntax error on token '-', -- expected"/></edit>
+	<edit stamp="1412699215735" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699218745" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699220759" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<save stamp="1412699220759" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="Syntax error, insert ')' to complete Expression" action="addition"/></save>
+	<edit stamp="1412699223773" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<edit stamp="1412699226284" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<save stamp="1412699226284" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="9" message="Syntax error, insert ')' to complete Expression" action="removal"/></save>
+	<edit stamp="1412699227792" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699279987" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699284000" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699291018" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699294529" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699304543" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699335564" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699338076" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699340088" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699341598" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699371113" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699373631" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699394150" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="10" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<edit stamp="1412699397158" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699429185" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="10" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<edit stamp="1412699431192" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699440707" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699457729" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699468742" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699477753" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699498776" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="19" message="Syntax error on token ')', delete this token"/></edit>
+	<edit stamp="1412699499789" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699502298" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699503808" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699509820" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699511332" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699526625" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699533644" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699541661" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699542672" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699570697" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="59" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamMembersIsZero() in type BonusCalculatorTest"/><error lineNumber="64" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamMembersIsZero() in type BonusCalculatorTest"/></edit>
+	<save stamp="1412699570697" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="65" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamMembersIsZero() in type BonusCalculatorTest" action="addition"/><error lineNumber="59" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamMembersIsZero() in type BonusCalculatorTest" action="addition"/></save>
+	<edit stamp="1412699572723" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="59" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamMembersIsZero() in type BonusCalculatorTest"/><error lineNumber="65" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamMembersIsZero() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412699578749" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<save stamp="1412699578749" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="65" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamMembersIsZero() in type BonusCalculatorTest" action="removal"/><error lineNumber="59" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamMembersIsZero() in type BonusCalculatorTest" action="removal"/></save>
+	<edit stamp="1412699580274" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699585796" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699587812" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699588831" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699589850" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699597868" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699604386" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699607909" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699609928" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699617640" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699660132" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699661657" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699663182" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699666206" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699668727" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699681254" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699689773" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699691787" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412699694675" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699698192" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699700700" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699704711" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="15" message="Syntax error on token '-', invalid )"/></edit>
+	<edit stamp="1412699706721" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699709232" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699710748" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="15" message="Syntax error on token '*', Expression expected after this token"/></edit>
+	<edit stamp="1412699711755" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="15" message="Syntax error on token '(', Expression expected after this token"/></edit>
+	<edit stamp="1412699715771" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699717790" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699726802" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699737817" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699740331" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699741839" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699748855" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699751365" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699755379" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699758391" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699761904" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="15" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="15" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="15" message="calc cannot be resolved to a variable"/></edit>
+	<edit stamp="1412699763919" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="15" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1412699765927" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699771442" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699779456" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="16" message="Type mismatch: cannot convert from int to boolean"/></edit>
+	<edit stamp="1412699785469" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="14" message="This method must return a result of type double"/></edit>
+	<edit stamp="1412699786981" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="14" message="This method must return a result of type double"/></edit>
+	<edit stamp="1412699789494" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699818016" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699819030" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="19" message="Syntax error on token '(', Expression expected after this token"/></edit>
+	<edit stamp="1412699820548" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="19" message="number cannot be resolved to a variable"/></edit>
+	<edit stamp="1412699821556" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="19" message="Type mismatch: cannot convert from int to boolean"/></edit>
+	<edit stamp="1412699823068" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="19" message="Type mismatch: cannot convert from int to boolean"/></edit>
+	<edit stamp="1412699824580" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="14" message="This method must return a result of type double"/></edit>
+	<edit stamp="1412699829090" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699840110" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699841621" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699844626" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699866807" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699867818" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699870334" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699878851" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699879864" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699883878" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699887388" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699903902" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699914416" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699918433" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="15" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="19" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="25" message="Syntax error on token 'boolean', Identifier expected after this token"/><error lineNumber="26" message="Void methods cannot return a value"/></edit>
+	<edit stamp="1412699920448" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="7" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="15" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="19" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="25" message="Syntax error on token 'boolean', Identifier expected after this token"/><error lineNumber="26" message="Void methods cannot return a value"/></edit>
+	<edit stamp="1412699923461" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699929155" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699942171" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699943182" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699947710" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699975732" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699980744" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699992760" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412699994775" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700003792" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="22" message="differnece cannot be resolved to a variable"/></edit>
+	<edit stamp="1412700006303" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="22" message="differece cannot be resolved to a variable"/></edit>
+	<edit stamp="1412700007817" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700015829" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700020347" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="22" message="Syntax error on token ')', * expected after this token"/></edit>
+	<edit stamp="1412700021359" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="22" message="Syntax error on token ')', * expected after this token"/></edit>
+	<edit stamp="1412700022869" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700027383" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="22" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<edit stamp="1412700028899" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700037914" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="10" message="Syntax error, insert ')' to complete Expression"/></edit>
+	<edit stamp="1412700039924" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700045694" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700049210" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="65" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamHasOnlyOneMember() in type BonusCalculatorTest"/><error lineNumber="70" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamHasOnlyOneMember() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412700051239" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"><error lineNumber="65" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamHasOnlyOneMember() in type BonusCalculatorTest"/><error lineNumber="71" message="Duplicate method testTeamBonusWhenSalesAreBiggerThanQuotaAndTeamHasOnlyOneMember() in type BonusCalculatorTest"/></edit>
+	<edit stamp="1412700061270" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700063291" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700065816" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700067328" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700071349" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700072873" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700074892" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700080949" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700085459" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700092973" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700106137" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700145162" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700146686" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700150211" resource="test/com/industriallogic/bonus/BonusCalculatorTest.java"/>
+	<edit stamp="1412700179155" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700227178" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700232688" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700297223" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700298234" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="Syntax error on token 'p', invalid Modifiers"/></edit>
+	<edit stamp="1412700301246" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="26" message="Duplicate modifier for the method calcCommission in type BonusCalculator"/></edit>
+	<edit stamp="1412700303763" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="Syntax error on token 'boolean', delete this token"/></edit>
+	<edit stamp="1412700307279" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="Syntax error, insert ';' to complete FieldDeclaration"/></edit>
+	<edit stamp="1412700308293" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="Syntax error, insert ';' to complete FieldDeclaration"/></edit>
+	<edit stamp="1412700309315" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="Syntax error, insert ';' to complete FieldDeclaration"/></edit>
+	<edit stamp="1412700311328" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="Syntax error, insert ';' to complete MethodDeclaration"/></edit>
+	<edit stamp="1412700314344" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="Syntax error, insert ')' to complete MethodDeclaration"/><error lineNumber="24" message="Syntax error, insert ';' to complete MethodDeclaration"/></edit>
+	<edit stamp="1412700319361" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="Syntax error, insert ';' to complete MethodDeclaration"/></edit>
+	<edit stamp="1412700321378" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="24" message="This method must return a result of type boolean"/></edit>
+	<edit stamp="1412700326397" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="25" message="Type mismatch: cannot convert from int to boolean"/><error lineNumber="25" message="Syntax error on token '>', ; expected"/></edit>
+	<edit stamp="1412700328412" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="25" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1412700330423" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700337438" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700338454" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="6" message="Syntax error on token 'if', delete this token"/></edit>
+	<edit stamp="1412700340471" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="6" message="hasBonus cannot be resolved to a variable"/><error lineNumber="8" message="Syntax error on token 'int', delete this token"/><error lineNumber="8" message="difference cannot be resolved to a variable"/><error lineNumber="9" message="difference cannot be resolved to a variable"/><error lineNumber="12" message="difference cannot be resolved to a variable"/></edit>
+	<edit stamp="1412700342991" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="6" message="hasBonus cannot be resolved to a variable"/><error lineNumber="8" message="Syntax error on token 'int', delete this token"/><error lineNumber="8" message="difference cannot be resolved to a variable"/><error lineNumber="9" message="difference cannot be resolved to a variable"/><error lineNumber="12" message="difference cannot be resolved to a variable"/></edit>
+	<edit stamp="1412700346001" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="6" message="hasBonus cannot be resolved to a variable"/></edit>
+	<edit stamp="1412700349016" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="6" message="The method hasBonus(int, int) in the type BonusCalculator is not applicable for the arguments ()"/></edit>
+	<edit stamp="1412700351525" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700352536" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700358049" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700366065" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700379580" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700394094" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700402106" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700409124" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700411140" resource="src/com/industriallogic/bonus/BonusCalculator.java"><error lineNumber="14" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1412700414650" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700421171" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700426683" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700437204" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700456221" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700457730" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700463292" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700468803" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700472820" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+	<edit stamp="1412700486834" resource="src/com/industriallogic/bonus/BonusCalculator.java"/>
+</session>

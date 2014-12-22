@@ -1,0 +1,240 @@
+<session>
+	<save stamp="1412251714317" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized" action="addition"/></save>
+	<save stamp="1412251714317" resource="src/com/industriallogic/tailqueue/TailQueue.java"><warning lineNumber="30" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized" action="addition"/><warning lineNumber="31" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized" action="addition"/><warning lineNumber="75" message="Type safety: The method add(Object) belongs to the raw type TreeSet. References to generic type TreeSet<E> should be parameterized" action="addition"/><warning lineNumber="23" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized" action="addition"/><warning lineNumber="28" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized" action="addition"/><warning lineNumber="29" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized" action="addition"/></save>
+	<edit stamp="1412251738610" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251776983" resource="src/com/industriallogic/tailqueue/TailQueue.java"><warning lineNumber="23" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="28" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="29" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="30" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="31" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="75" message="Type safety: The method add(Object) belongs to the raw type TreeSet. References to generic type TreeSet<E> should be parameterized"/></edit>
+	<edit stamp="1412251782274" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412251856912" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251860438" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251862976" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251866992" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251868512" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251874032" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251877549" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251880070" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251886090" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251889113" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251893632" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251902645" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251904160" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412251906173" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252019723" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252021235" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252028747" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252029772" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252034791" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252037813" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252048337" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252053354" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252062929" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252064452" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1412252072492" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="21" message="The value of the local variable target is not used" action="addition"/></save>
+	<edit stamp="1412252073466" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="21" message="The value of the local variable target is not used"/></edit>
+	<edit stamp="1412252075482" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="21" message="The value of the local variable target is not used"/></edit>
+	<edit stamp="1412252077498" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252079513" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252080532" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252083051" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252092074" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="22" message="The value of the local variable result is not used"/></edit>
+	<edit stamp="1412252093590" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="22" message="The value of the local variable result is not used"/></edit>
+	<edit stamp="1412252098602" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252101115" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252103130" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252104148" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252105160" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252108193" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252109706" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1412252109706" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="21" message="The value of the local variable target is not used" action="removal"/></save>
+	<edit stamp="1412252110718" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252134242" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252146258" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252153275" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252154287" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252156303" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252159819" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252174341" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252176356" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252180374" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252181889" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252186409" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252193923" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252200941" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252201960" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252205479" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252209497" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252217021" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252220044" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252228096" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412252237680" resource="src/com/industriallogic/tailqueue/TailQueue.java"><warning lineNumber="23" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="28" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="29" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="30" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="31" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="75" message="Type safety: The method add(Object) belongs to the raw type TreeSet. References to generic type TreeSet<E> should be parameterized"/></edit>
+	<edit stamp="1412252246072" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252248590" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252249603" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252251124" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252253141" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252254158" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252256675" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252264194" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252265212" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252266229" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252267249" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252271766" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252273278" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252275293" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252288051" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252289068" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252290582" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252293100" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252295108" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252298127" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252302641" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252307154" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252308665" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252310178" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252311690" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252314208" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252315228" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252321251" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252325272" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252329784" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252331802" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252333317" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252334336" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252342854" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252351876" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252354236" resource="src/com/industriallogic/tailqueue/TailQueue.java"><warning lineNumber="23" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="28" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="29" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="30" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="31" message="TreeSet is a raw type. References to generic type TreeSet<E> should be parameterized"/><warning lineNumber="75" message="Type safety: The method add(Object) belongs to the raw type TreeSet. References to generic type TreeSet<E> should be parameterized"/></edit>
+	<edit stamp="1412252355645" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412252375900" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252384421" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252389439" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252391456" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252393471" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252396986" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252402505" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252405516" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252409537" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252411554" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252415576" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252417600" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252424118" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252428137" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252432151" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252437167" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252439180" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252441203" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252444219" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252447735" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252450253" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252451272" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252454789" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252455808" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252459325" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252463344" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252465361" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252467379" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252468889" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252475418" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252482939" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252485450" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252492972" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252497486" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252498496" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252520369" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412252556394" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412252559032" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252562542" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252575569" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252580092" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252583609" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252585123" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252586635" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252588658" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252589673" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252600688" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252602712" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252603723" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252605245" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252608259" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252644940" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252650955" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252651973" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252657987" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252659497" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252666954" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412252709639" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252720648" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412252726696" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252729726" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252735255" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252741276" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252747795" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252754316" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="46" message="The serializable class  does not declare a static final serialVersionUID field of type long"/></edit>
+	<save stamp="1412252754316" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="46" message="The serializable class  does not declare a static final serialVersionUID field of type long" action="addition"/></save>
+	<edit stamp="1412252774708" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412252804877" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252807893" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252810913" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252843444" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1412252843444" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="46" message="The serializable class  does not declare a static final serialVersionUID field of type long" action="removal"/></save>
+	<edit stamp="1412252844929" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<save stamp="1412252844929" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used" action="addition"/></save>
+	<edit stamp="1412252853474" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<save stamp="1412252853474" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used" action="removal"/><warning lineNumber="14" message="The import java.util.Calendar is never used" action="addition"/></save>
+	<edit stamp="1412252857449" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412252880022" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252881043" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252883562" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<save stamp="1412252883562" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used" action="removal"/><warning lineNumber="14" message="The import java.util.Calendar is never used" action="addition"/></save>
+	<edit stamp="1412252889082" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<edit stamp="1412252892600" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252894121" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252920355" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<edit stamp="1412252921876" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252931904" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252934923" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252938944" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252940476" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252942997" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<edit stamp="1412252946515" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252949034" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412252952055" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<save stamp="1412252952055" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used" action="removal"/><warning lineNumber="14" message="The import java.util.Calendar is never used" action="addition"/></save>
+	<edit stamp="1412252953575" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<edit stamp="1412252965604" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<save stamp="1412252965604" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used" action="removal"/><warning lineNumber="14" message="The import java.util.Calendar is never used" action="addition"/></save>
+	<edit stamp="1412252967121" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<edit stamp="1412252978895" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<save stamp="1412252978895" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used" action="addition"/><warning lineNumber="14" message="The import java.util.Calendar is never used" action="removal"/></save>
+	<edit stamp="1412252979911" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used"/></edit>
+	<edit stamp="1412252990936" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1412252990936" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="14" message="The import java.util.Calendar is never used" action="removal"/></save>
+	<edit stamp="1412252992497" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<save stamp="1412252992497" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="24" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized" action="addition"/><warning lineNumber="25" message="Type safety: The method compareTo(Object) belongs to the raw type Comparable. References to generic type Comparable<T> should be parameterized" action="addition"/></save>
+	<edit stamp="1412253020470" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="24" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/><warning lineNumber="25" message="Type safety: The method compareTo(Object) belongs to the raw type Comparable. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412253035996" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1412253035996" resource="test/com/industriallogic/tailqueue/TailTest.java"><warning lineNumber="24" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized" action="removal"/><warning lineNumber="25" message="Type safety: The method compareTo(Object) belongs to the raw type Comparable. References to generic type Comparable<T> should be parameterized" action="removal"/></save>
+	<edit stamp="1412253037014" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253040026" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412253053540" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253056060" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253060575" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253065592" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253070608" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253074626" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253076644" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253078164" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253086182" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253091699" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253101713" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253105738" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253106762" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253107783" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253110306" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253146570" resource="src/com/industriallogic/tailqueue/Tail.java"><warning lineNumber="16" message="Comparable is a raw type. References to generic type Comparable<T> should be parameterized"/></edit>
+	<edit stamp="1412253289105" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253293124" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253294144" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253295163" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253296686" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253297708" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1412253302228" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+</session>

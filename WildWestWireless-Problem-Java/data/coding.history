@@ -1,0 +1,253 @@
+<session>
+	<change action='removal' type='Class' class='PlanTest' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412768467480'/>
+	<change action='addition' type='Class' class='PlanTest' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412768482441'/>
+	<change action='removal' type='Class' class='CalculatePhoneBillTest' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768482441'/>
+	<change action='addition' type='Class' class='CalculatePhoneBillTest' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768482019'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateBasicMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768592879'/>
+	<problem type='Missing Class' class='target' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768637064'/>
+	<problem type='Unresolved Token' token='target' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768641576'/>
+	<problem type='Missing Method' class='Object' method='calculatePhoneBill' args='' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768677651'/>
+	<problem type='Unresolved Token' token='t' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768679667'/>
+	<problem type='Missing Class' class='CalculateP' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768688207'/>
+	<problem type='Missing Class' class='CalculatePhoneBill' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768690726'/>
+	<problem type='Missing Class' class='CalculatePhoneBfill' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768695757'/>
+	<problem type='Missing Method' class='CalculatePhoneBill' method='calculatePhoneBill' args='' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412768722949'/>
+	<change action='addition' type='Class' class='CalculatePhoneBill' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412768722949'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculatePhoneBill' args='' visibility='public' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412768733940'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='calculatePhoneBill' args='' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769372303'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateBasicMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769455451'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateRateMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769467475'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateBasicMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769467475'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769476993'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateRateMonthlyRate' args='' visibility='N/A' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769476993'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBillMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769483015'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateMonthlyRate' args='' visibility='N/A' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769483015'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBill' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769485535'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBillMonthlyRate' args='' visibility='N/A' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412769485535'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769896057'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='get' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769901116'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769901116'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getA' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769917640'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='get' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769917640'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getAdditionalLineValue' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769924156'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getA' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769924156'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculateAdditionalLineValue' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769934670'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getAdditionalLineValue' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769934670'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='calculateAdditionalLineValue' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769970529'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculateAdditionalLineValue' args='int, double' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412769970529'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='calculateAdditionalLineValue' args='int, double' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412770057390'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='calculatePhoneBill' args='String, int' visibility='public' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412770095836'/>
+	<problem type='Missing Class' class='Plan' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412770095836'/>
+	<problem type='Missing Class' class='GoldPlan' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770113963'/>
+	<problem type='Missing Class' class='SilverPlan' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770127055'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBill' args='' visibility='N/A' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770130068'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculatePhoneBill' args='Plan, int' visibility='public' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412770095836'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculatePhoneBill' args='' visibility='public' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412770192045'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='calculatePhoneBill' args='Plan, int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412770192045'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateBasicMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770202967'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770209998'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateBasicMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770209998'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBill' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770213515'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedMonthlyRate' args='' visibility='N/A' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770213515'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBill' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770405575'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBill' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770412597'/>
+	<problem type='Missing Class' class='P' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770434135'/>
+	<problem type='Missing Method' class='CalculatePhoneBillTest' method='assertEquals' args='double, double' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770434135'/>
+	<problem type='Missing Class' class='Plan' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770437155'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBill' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770531102'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBillByPlan' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770540155'/>
+	<change action='removal' type='Method' class='CalculatePhoneBillTest' method='calculateExpectedBill' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770540155'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='calculatePhoneBill' args='GoldPlan, int' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770619664'/>
+	<change action='addition' type='Class' class='GoldPlan' resource='src/com/wildwestwireless/GoldPlan.java' stamp='1412770619664'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculatePhoneBill' args='GoldPlan, int' visibility='public' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412770642042'/>
+	<problem type='Missing Method' class='Plan' method='getBasicMonthlyRate' args='' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412770850235'/>
+	<change action='addition' type='Method' class='Plan' method='getBasicMonthlyRate' args='' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412770856241'/>
+	<change action='removal' type='Method' class='Plan' method='Plan' args='' visibility='N/A' resource='src/com/wildwestwireless/Plan.java' stamp='1412770884390'/>
+	<problem type='Missing Class' class='Ignore' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412770966336'/>
+	<change action='addition' type='Class' class='PlanTest' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412770995124'/>
+	<problem type='Missing Class' class='Test' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771005912'/>
+	<change action='addition' type='Method' class='PlanTest' method='createPlan' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771007420'/>
+	<change action='addition' type='Method' class='PlanTest' method='testcreatePlan' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771015953'/>
+	<change action='removal' type='Method' class='PlanTest' method='createPlan' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771015953'/>
+	<change action='addition' type='Method' class='PlanTest' method='testCreatePlan' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771016966'/>
+	<change action='removal' type='Method' class='PlanTest' method='testcreatePlan' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771016966'/>
+	<problem type='Missing Class' class='plan' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771047561'/>
+	<problem type='Unresolved Token' token='plan' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771057125'/>
+	<problem type='Missing Method' class='Object' method='getBasicMonthlyRate' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771065153'/>
+	<problem type='Missing Method' class='PlanTest' method='assertEquals' args='double, double' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771109748'/>
+	<change action='removal' type='Method' class='Plan' method='Plan' args='double' visibility='N/A' resource='src/com/wildwestwireless/Plan.java' stamp='1412771184843'/>
+	<change action='removal' type='Method' class='Plan' method='Plan' args='' visibility='N/A' resource='src/com/wildwestwireless/Plan.java' stamp='1412771187852'/>
+	<change action='addition' type='Method' class='PlanTest' method='testGet' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771392763'/>
+	<change action='removal' type='Method' class='PlanTest' method='testCreatePlan' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771392763'/>
+	<change action='addition' type='Method' class='PlanTest' method='testGetBasicMonth' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771395771'/>
+	<change action='removal' type='Method' class='PlanTest' method='testGet' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771395771'/>
+	<change action='removal' type='Method' class='PlanTest' method='testGetBasicMonthlyRate' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771398695'/>
+	<change action='removal' type='Method' class='PlanTest' method='testCreatePlan' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771398856'/>
+	<change action='addition' type='Method' class='PlanTest' method='testGetBasicMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771398856'/>
+	<change action='addition' type='Method' class='PlanTest' method='testGetBasicMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771401808'/>
+	<change action='addition' type='Method' class='PlanTest' method='testGetRatePerAdditionalLine' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771429097'/>
+	<change action='removal' type='Method' class='PlanTest' method='testGetBasicMonthlyRate' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771429097'/>
+	<problem type='Missing Method' class='Plan' method='getRatePerAdditionalLine' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412771437611'/>
+	<change action='addition' type='Method' class='Plan' method='getRatePerAdditionalLine' args='' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412771490087'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='calculatePhoneBill' args='' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412773803960'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='calculatePhoneBill' args='Plan' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1412773811001'/>
+	<change action='addition' type='Method' class='PlanTest' method='testGetIncludedMinutes' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965001766'/>
+	<problem type='Missing Method' class='Plan' method='getIncludedMinutes' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965043028'/>
+	<problem type='Missing Class' class='goldPlan' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965067632'/>
+	<problem type='Missing Method' class='Plan' method='setIncludedMinutes' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965073151'/>
+	<problem type='Missing Method' class='Plan' method='setIncludedMinutes' args='int' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965075174'/>
+	<change action='addition' type='Method' class='Plan' method='setIncludedMinutes' args='int' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412965095468'/>
+	<change action='addition' type='Method' class='Plan' method='getIncludedMinutes' args='' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412965124941'/>
+	<problem type='Unresolved Token' token='sivPlan' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965205399'/>
+	<change action='addition' type='Method' class='PlanTest' method='create' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965254333'/>
+	<change action='removal' type='Method' class='PlanTest' method='extracted' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965254333'/>
+	<change action='addition' type='Method' class='PlanTest' method='createGoldPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965258853'/>
+	<change action='removal' type='Method' class='PlanTest' method='create' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965258853'/>
+	<change action='addition' type='Method' class='PlanTest' method='extracted' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965268529'/>
+	<change action='addition' type='Method' class='PlanTest' method='extracted' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965252189'/>
+	<change action='addition' type='Method' class='PlanTest' method='createSilverPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965275382'/>
+	<change action='removal' type='Method' class='PlanTest' method='extracted' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965275382'/>
+	<problem type='Missing Class' class='Begin' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965292920'/>
+	<change action='addition' type='Method' class='PlanTest' method='setUp' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965304493'/>
+	<problem type='Missing Class' class='B' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412965332043'/>
+	<problem type='Missing Class' class='silverPlan' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412969855765'/>
+	<problem type='Missing Method' class='PlanTest' method='setIncludedMinutes' args='int' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412969855765'/>
+	<problem type='Missing Method' class='Plan' method='setRatePerAdditionalLine' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412969865338'/>
+	<problem type='Missing Method' class='Plan' method='setRatePerAdditionalLine' args='double' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412969870406'/>
+	<change action='addition' type='Method' class='Plan' method='setRatePerAdditionalLine' args='double' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412969876784'/>
+	<change action='addition' type='Method' class='Plan' method='setRatePerAdditionalLine' args='' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412969887296'/>
+	<change action='removal' type='Method' class='Plan' method='setRatePerAdditionalLine' args='double' visibility='N/A' resource='src/com/wildwestwireless/Plan.java' stamp='1412969887296'/>
+	<change action='removal' type='Method' class='Plan' method='setRatePerAdditionalLine' args='' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412969890730'/>
+	<change action='addition' type='Method' class='Plan' method='setRatePerAdditionalLine' args='double' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412969890730'/>
+	<problem type='Missing Class' class='Begin' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412970040686'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='setUp' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412970046214'/>
+	<problem type='Missing Class' class='b' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412970056787'/>
+	<problem type='Missing Class' class='goldPlan' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412970267252'/>
+	<change action='addition' type='Method' class='PlanTest' method='testPerExcessMinute' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970368962'/>
+	<problem type='Missing Method' class='Plan' method='getRatePerExcessMinute' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970400575'/>
+	<change action='addition' type='Method' class='Plan' method='getRatePerExcessMinute' args='' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412970419564'/>
+	<problem type='Missing Method' class='Plan' method='setRatePerExcessMinute' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970461790'/>
+	<problem type='Missing Method' class='Plan' method='setRatePerExcessMinute' args='double' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970465307'/>
+	<change action='addition' type='Method' class='Plan' method='setRatePerExcessMinute' args='double' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1412970471687'/>
+	<change action='removal' type='Method' class='PlanTest' method='testPerExcessMinute' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970532766'/>
+	<change action='addition' type='Method' class='PlanTest' method='testRatePerExcessMinute' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970532766'/>
+	<change action='addition' type='Method' class='PlanTest' method='extracted' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970784032'/>
+	<change action='addition' type='Method' class='PlanTest' method='goldPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970789486'/>
+	<change action='removal' type='Method' class='PlanTest' method='extracted' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970789486'/>
+	<change action='addition' type='Method' class='PlanTest' method='extracted' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970795868'/>
+	<change action='addition' type='Method' class='PlanTest' method='siler' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970799023'/>
+	<change action='removal' type='Method' class='PlanTest' method='extracted' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970799023'/>
+	<change action='addition' type='Method' class='PlanTest' method='silverPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970802037'/>
+	<change action='removal' type='Method' class='PlanTest' method='siler' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970802037'/>
+	<problem type='Missing Method' class='PlanTest' method='getBasicMonthlyRate' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412970955748'/>
+	<change action='removal' type='Method' class='PlanTest' method='silverPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971006152'/>
+	<change action='addition' type='Method' class='PlanTest' method='getSilverPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971006152'/>
+	<change action='addition' type='Method' class='PlanTest' method='getgoldPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971010971'/>
+	<change action='removal' type='Method' class='PlanTest' method='goldPlan' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971010971'/>
+	<change action='removal' type='Method' class='PlanTest' method='getgoldPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971012271'/>
+	<change action='removal' type='Method' class='PlanTest' method='goldPlan' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971012426'/>
+	<change action='addition' type='Method' class='PlanTest' method='getGoldPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971012426'/>
+	<problem type='Method Not Applicable' class='PlanTestDataHelper' method='createSilverPlan' args='' resource='test/com/wildwestwireless/PlanTestDataHelper.java' stamp='1412971105386'/>
+	<problem type='Missing Class' class='create' resource='test/com/wildwestwireless/PlanTestDataHelper.java' stamp='1412971115441'/>
+	<change action='removal' type='Method' class='PlanTestDataHelper' method='createSilverPlan' args='PlanTest' visibility='N/A' resource='test/com/wildwestwireless/PlanTestDataHelper.java' stamp='1412971130985'/>
+	<problem type='Method Not Applicable' class='PlanTestDataHelper' method='createSilverPlan' args='null' resource='test/com/wildwestwireless/PlanTestDataHelper.java' stamp='1412971130985'/>
+	<problem type='Method Not Applicable' class='PlanTestDataHelper' method='createGoldPlan' args='' resource='test/com/wildwestwireless/PlanTestDataHelper.java' stamp='1412971132500'/>
+	<problem type='Method Not Applicable' class='PlanTestDataHelper' method='createGoldPlan' args='PlanTest' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971133514'/>
+	<problem type='Method Not Applicable' class='PlanTestDataHelper' method='createSilverPlan' args='PlanTest' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971133514'/>
+	<problem type='Unresolved Token' token='silverdata' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971211961'/>
+	<problem type='Missing Class' class='silver' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971213472'/>
+	<problem type='Missing Method' class='PlanTest' method='getGoldPlan' args='PlanTest' resource='test/com/wildwestwireless/PlanTest.java' stamp='1412971213472'/>
+	<change action='addition' type='Method' class='PlanTestDataHelper' method='createSilverPlan' args='' visibility='private' resource='test/com/wildwestwireless/PlanTestDataHelper.java' stamp='1412971130985'/>
+	<problem type='Method Not Applicable' class='PlanTestDataHelper' method='getGoldPlan' args='CalculatePhoneBillTest' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412971495823'/>
+	<problem type='Method Not Applicable' class='PlanTestDataHelper' method='getSilverPlan' args='CalculatePhoneBillTest' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1412971495823'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateExcessMinutes' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413205592774'/>
+	<problem type='Missing Class' class='target' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413205636471'/>
+	<problem type='Missing Class' class='plan' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413205906939'/>
+	<problem type='Missing Class' class='Class<plan>' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413205906939'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getExcessMinutesRate' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413206372608'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getExcessMinutesRate' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413206446494'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getExcessMinutesRate' args='int, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413206446494'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='getExcessMinutesRate' args='Plan, int' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413206447360'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getExcessMinutesRate' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413206612221'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getExcessMinutesRate' args='int, int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413206612221'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='getExcessMinutesRate' args='int, int' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413206612221'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateFamilyDiscount' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413207066320'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='calculatePhoneBill' args='Plan, int' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413207143507'/>
+	<change action='addition' type='Method' class='PlanTest' method='testFamilyDiscount' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1413207671716'/>
+	<problem type='Missing Class' class='Ignore' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413207678114'/>
+	<problem type='Method Not Applicable' class='Assert' method='assertEquals' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1413207698277'/>
+	<problem type='Method Not Applicable' class='Assert' method='assertEquals' args='double' resource='test/com/wildwestwireless/PlanTest.java' stamp='1413207703800'/>
+	<problem type='Missing Method' class='Plan' method='getFamilyRatePerAdditionalLine' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1413207738232'/>
+	<problem type='Missing Method' class='Plan' method='getPromotionalRatePerAdditionalLine' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1413207745251'/>
+	<problem type='Missing Method' class='Plan' method='getRatePerAdditionalLine' args='' resource='test/com/wildwestwireless/PlanTest.java' stamp='1413207747441'/>
+	<change action='removal' type='Method' class='PlanTest' method='testFamilyDiscount' args='' visibility='N/A' resource='test/com/wildwestwireless/PlanTest.java' stamp='1413207758338'/>
+	<change action='addition' type='Method' class='PlanTest' method='testFamilyDiscount' args='' visibility='public' resource='test/com/wildwestwireless/PlanTest.java' stamp='1413207763868'/>
+	<change action='addition' type='Method' class='Plan' method='getPromotionalRatePerAdditionalLine' args='' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1413207839378'/>
+	<problem type='Missing Method' class='Plan' method='setPromotionalRatePerAdditionalLine' args='' resource='test/com/wildwestwireless/PlanTestDataHelper.java' stamp='1413207898426'/>
+	<problem type='Missing Method' class='Plan' method='setPromotionalRatePerAdditionalLine' args='double' resource='test/com/wildwestwireless/PlanTestDataHelper.java' stamp='1413207900934'/>
+	<change action='addition' type='Method' class='Plan' method='setPromotionalRatePerAdditionalLine' args='double' visibility='public' resource='src/com/wildwestwireless/Plan.java' stamp='1413207905653'/>
+	<problem type='Missing Class' class='numberOfLines' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208346288'/>
+	<problem type='Missing Method' class='Plan' method='get' args='' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208352316'/>
+	<problem type='Missing Method' class='Plan' method='getPro' args='' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208354339'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='extracted' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208433893'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='a' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208436362'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='extracted' args='Plan, int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208436362'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculateadditionalLineValue' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208449399'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='additionalLineValue' args='Plan, int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208449399'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='calculateadditionalLineValue' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208450385'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='additionalLineValue' args='Plan, int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208450628'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculateAdditionalLineValue' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208450628'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='calculateAdditionalLineValue' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208458143'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculateAdditionalLinesValue' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208458143'/>
+	<problem type='Missing Method' class='CalculatePhoneBill' method='f' args='boolean' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413208526361'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='calculatePhoneBill' args='Plan, int' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413222964664'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculate' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223175164'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='extracted' args='Plan, int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223175164'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculatePromotional' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223179179'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='calculate' args='Plan, int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223179179'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='calculatePromotionalAdditionalLinesValue' args='Plan, int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223186698'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='calculatePromotional' args='Plan, int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223186698'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223451154'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='is' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223454063'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223454063'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='is' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223458088'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='is' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223461104'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='isWhat' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223475123'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='is' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223475123'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223477642'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='isWhat' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223477642'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223478660'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223503910'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='get' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223505698'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223505698'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getAdditionalLines' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223512216'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='get' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223512216'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getAdditionalLinesNumber' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223523346'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getAdditionalLines' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223523346'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getAdditionalLinesN' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223524864'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getAdditionalLinesNumber' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223524864'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getAdditionalLines' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223525885'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getAdditionalLinesN' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223525885'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getNumberAdditionalLines' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223528898'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getAdditionalLines' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223528898'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getNumberOfAdditionalLines' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223529916'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getNumberAdditionalLines' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223529916'/>
+	<problem type='Missing Class' class='NUMBER_OF_CONTRACTED_LINES' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223601291'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='get' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223730886'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='extracted' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223730886'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getNumberOf' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223735906'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='get' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223735906'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getNumberOfPro' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223736925'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getNumberOf' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223736925'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getNumberOfPromotion' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223739447'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getNumberOfPro' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223739447'/>
+	<change action='addition' type='Method' class='CalculatePhoneBill' method='getNumberOfPromotionalAdditionalLines' args='int' visibility='private' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223745470'/>
+	<change action='removal' type='Method' class='CalculatePhoneBill' method='getNumberOfPromotion' args='int' visibility='N/A' resource='src/com/wildwestwireless/CalculatePhoneBill.java' stamp='1413223745470'/>
+	<change action='addition' type='Method' class='CalculatePhoneBillTest' method='calculateCompletePhoneBill' args='' visibility='public' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413227244631'/>
+	<problem type='Missing Method' class='CalculatePhoneBillTest' method='assertEqual' args='' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413227322629'/>
+	<problem type='Missing Method' class='CalculatePhoneBillTest' method='assertEqual' args='double' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413227329154'/>
+	<problem type='Missing Method' class='CalculatePhoneBillTest' method='assertEqual' args='double, double' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413227346307'/>
+	<problem type='Missing Method' class='CalculatePhoneBillTest' method='assertEqual' args='double, double, double' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413227362875'/>
+	<problem type='Method Not Applicable' class='Assert' method='assertEquals' args='int, double, double, double' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413227433785'/>
+	<problem type='Method Not Applicable' class='CalculatePhoneBill' method='calculatePhoneBill' args='Plan, int, int, double' resource='test/com/wildwestwireless/CalculatePhoneBillTest.java' stamp='1413227494205'/>
+</session>

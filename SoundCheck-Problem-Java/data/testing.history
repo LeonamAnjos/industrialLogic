@@ -1,0 +1,5 @@
+<session>
+	<testrun start="1412164401186" stamp="1412164401237"><fail name="weCanTest(com.industriallogic.soundCheck.SoundCheckTest)"/></testrun>
+	<testrun start="1412164451290" stamp="1412164451295"><pass name="weCanTest(com.industriallogic.soundCheck.SoundCheckTest)"/></testrun>
+	<testrun start="1412164488884" stamp="1412164488889"><pass name="weCanTest(com.industriallogic.soundCheck.SoundCheckTest)"/></testrun>
+</session>
